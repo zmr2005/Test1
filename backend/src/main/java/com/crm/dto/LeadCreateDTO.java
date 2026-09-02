@@ -18,5 +18,6 @@ public class LeadCreateDTO {
 
     private Long sourceId;
     private Long ownerId;
+    private String tags;
     private String remark;
 }

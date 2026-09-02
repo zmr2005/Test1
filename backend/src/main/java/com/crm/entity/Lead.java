@@ -25,6 +25,7 @@ public class Lead {
     private String status;
     private Long ownerId;
     private String remark;
+    private String tags;
     private Long createdBy;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;

@@ -16,5 +16,6 @@ public class LeadUpdateDTO {
     private Long sourceId;
     private String status;
     private Long ownerId;
+    private String tags;
     private String remark;
 }
